@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "x": 20,
+        "y": 20,
+        "text": "AA",
+        "color": "#ffaaaa"
+    },
+    {
+        "id": 2,
+        "x": 60,
+        "y": 60,
+        "text": "BB",
+        "color": "#aaffaa"
+    },
+    {
+        "id": 3,
+        "x": 100,
+        "y": 100,
+        "text": "CC",
+        "color": "#aaaaff"
+    }
+]
